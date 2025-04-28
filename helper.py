@@ -9,7 +9,7 @@ import nltk
 nltk.download('stopwords')
 
 
-cv = pickle.load(open('E:\DQP\cv.pkl','rb'))
+cv = pickle.load(open('cv.pkl','rb'))
 
 
 def test_common_words(q1,q2):
