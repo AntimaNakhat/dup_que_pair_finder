@@ -2,7 +2,7 @@ import streamlit as st
 import helper
 import pickle
 
-model = pickle.load(open('E:\DQP\model .pkl','rb'))
+model = pickle.load(open('model .pkl','rb'))
 
 st.header('Duplicate Question Pairs')
 st.write("Disclaimer-The model has an accuracy of approx 79%.So there will be some instances where it will predict wrong answers")
