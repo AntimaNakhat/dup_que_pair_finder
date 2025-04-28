@@ -1,3 +1,12 @@
+**Duplicate Question Pairs**
+
+The streamlit app takes two questions as an input and predicts whether The questions are Duplicate or unique. This is quite useful in providing services to question and answer platform and forums such as Quora,Stack Overflow.Yahoo Answers etc.
+
+The machine learning model was created mainly using: Bag of Words, Fuzzy features etc
+
+**Render link of this project:**
+https://duplicate-question-pair-finder.onrender.com/
+
 **Roadmap**
 I divide this project's roadmap in 5 steps.
 
